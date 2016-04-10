@@ -10,8 +10,8 @@ title: Test Jekyll site
 email: pretorh@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Testing/playing around with Jekyll static site generation
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://pretorh.github.io/" # the base hostname & protocol for your site
+baseurl: "http://pretorh.github.io/test-jekyll"
+url: "http://pretorh.github.io/test-jekyll"
 twitter_username: pretorh
 github_username:  pretorh
 
